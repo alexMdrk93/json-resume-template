@@ -3,8 +3,8 @@
     "name": "Mihalcea Alexandru",
     "label": "Aspiring JavaScript Developer",
     "image": "https://lh3.googleusercontent.com/pw/AM-JKLUHKzJfPmAsdCAw_1aBE9rEv0Lr2Lh-ZdTu2lLGYWbUynDZmCVOMB7IWPk5mcQ3dXmoWQnSFUfYlZeuSx-v-Mrj0QzcQM3Qu8yuNvxZozWppbIiOuJcv9aeDYIZKTA9foQYs23niyLsjwf2CHq0xPkmEQ=w469-h625-no?authuser=0",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
+    "email": "alex.chingo@gmail.com",
+    "phone": "0749 xxx xxx",
     "url": "http://johndoe.com",
     "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     "location": {
@@ -21,8 +21,8 @@
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "Developer",
+    "name": "Knorr-Bremse SRL",
+    "position": "Field Service Engineer",
     "url": "http://somecompany.com",
     "startDate": "2020-01-01",
     "endDate": "2020-01-01",
